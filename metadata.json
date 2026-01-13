@@ -1,0 +1,9 @@
+{
+  "name": "KEK Messenger",
+  "description": "A powerful AI-driven messenger for viral product research across TikTok, Alibaba, and more, featuring advanced grounding and real-time voice capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
